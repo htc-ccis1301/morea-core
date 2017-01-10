@@ -35,12 +35,14 @@ title: Schedule
         eventColor: '#446e9b',
         eventSources: [
             {
+                // My HTC Events Calendar
                 googleCalendarId: 'pam2qc7v8m3eqordq9llu4b844@group.calendar.google.com',
                 color: '#f26522',  // HTC Orange for college dates & events
                 textColor: 'black'
             },
             {
-                googleCalendarId: '8g28fk9ir2radvqoeq1n68sk1s@group.calendar.google.com'
+                // Course Specific Calendar
+                googleCalendarId: '{{ site.googleCalendarId }}'
             }
         ]
     });
