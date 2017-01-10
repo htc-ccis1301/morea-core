@@ -4,30 +4,33 @@ morea_id: home
 morea_type: home
 ---
 
-## Welcome to {{ site.name }}
+## Welcome to CCIS 1301
 
 ### Course Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia dapibus nisi sed finibus. Vivamus eget ante at quam molestie commodo et at odio. Aenean dignissim tortor id tellus sodales feugiat. Sed volutpat orci lacus, eu luctus lectus ullamcorper in. Nulla facilisi. Maecenas mattis ultrices lectus, in tincidunt urna tristique sed. In mattis tellus non aliquet pellentesque. Vivamus laoreet, justo luctus vehicula pulvinar, odio sapien pellentesque libero, eget congue est turpis a metus. Quisque porttitor massa quis porttitor pellentesque. Nulla consectetur magna vel neque tincidunt egestas. Phasellus nec ullamcorper ipsum. In pharetra gravida arcu, eu condimentum tortor rutrum sed. In id tincidunt erat.
+This course is an introduction to web development with HTML and CSS. In this course, students will learn about key internet technologies and standards behind the internet and world wide web. Students will develop website projects that meet current web standards and industry best practices using modern tools and techniques. The focus of this course is on the use of basic HTML and CSS as a technical foundation for later coursework in web application development using JavaScript and/or back-end technologies such as .Net or Java.
 
 ### Course Objectives
 The following objectives will be addressed in the course:
 
-- Proin nec metus tincidunt, vulputate ex vel, eleifend elit.
-- Vestibulum vitae nisi consequat, iaculis arcu ut, sollicitudin nibh.
-- Etiam at ligula ut dolor imperdiet varius.
-- Pellentesque vehicula lorem ut urna lobortis condimentum.
-- Phasellus pellentesque lorem mollis arcu volutpat tincidunt.
-- In fringilla diam eu lorem scelerisque, a dictum ante pellentesque.
+- Identify key internet technologies, standards and organizations.
+- Describe the client/server architecture of the internet, explaining the request-response life-cycle.
+- Build HTML pages that use best practices for layout, navigation, tables, forms, images and multimedia.
+- Write CSS to layout, format and enhance the display of a web page applying industry best practices.
+- Develop web pages that alter the visual layout and display appropriately for presentation on devices of various sizes.
+- Use a source code management tool to maintain a website.
+- Understand the impact of accessibility barriers in website design and development.
+- Learn and apply a current industry web development framework or library to development of a website.
 
 ## Text Book
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia dapibus nisi sed finibus. Vivamus eget ante at quam molestie commodo et at odio. C tellus sodales feugiat.
+The text book for this course is required and will be your main source for learning throughout most of the course.  The web site content will not repeat information from the text, only provide supplementary material.
 
 <div style="padding:10px 20px">
-Maecenas mattis ultrices lectus<br>
-by Change Me<br>
-ISBN-10: XXXXXXXXXX<br>
+Basics of Web Design: HTML5 & CSS3, Third Edition<br>
+by Terry Felke-Morris<br>
+ISBN-10: 0-13-397074-4<br>
 </div>
 
+While the textbook contains a code for online resources, those are not required.  This makes renting or buying used good options to reduce cost.  If you purchased a new book, consider selling it back through the bookstore at the end of the semester, or contact me if you'd like me to post it for students next semester. The book is a great learning tool, but there are better web resources for later reference use.
 
 ## Course Staff
 
@@ -46,7 +49,6 @@ ISBN-10: XXXXXXXXXX<br>
   <p>Online appointments are available M-F, but must be requested and confirmed via email at least a day in advance.  Online meetings are setup using Zoom and allow screen sharing, voice communication, and optionally video.  An link to join the meeting will be sent to you via email shortly before the scheduled meeting time.</p>
 </div>
 </div>
-
 
 
 ### Tutors
