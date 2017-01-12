@@ -68,9 +68,9 @@ layout: default
       </p>
       {{ outcome.content | markdownify }}
     </div>
-    {% capture remainder %}{{ forloop.index0 | modulus:2 }}{% endcapture %}
+    {% capture remainder %}{{ forloop.index0 | modulo:2 }}{% endcapture %}
     {% if remainder == 0 %}
-    </div><div class="row">
+    <div class="clearfix visible-xs-block"></div>
     {% endif %}
     {% endfor %}
 
@@ -99,9 +99,9 @@ layout: default
             </p>
           </a>
         </div>
-      {% capture remainder %}{{ forloop.index0 | modulus:4 }}{% endcapture %}
+      {% capture remainder %}{{ forloop.index0 | modulo:4 }}{% endcapture %}
       {% if remainder == 0 %}
-       </div><div class="row">
+      <div class="clearfix visible-xs-block"></div>
       {% endif %}
       {% endfor %}
 
@@ -129,9 +129,9 @@ layout: default
             </p>
           </a>
         </div>
-      {% capture remainder %}{{ forloop.index0 | modulus:4 }}{% endcapture %}
-      {% if remainder == 0 %}
-      </div><div class="row">
+      {% capture remainder %}{{ forloop.index0 | modulo:4 }}{% endcapture %}
+      rem {{ remainder }}{% if remainder == 0 %}
+      <div class="clearfix visible-xs-block"></div>
       {% endif %}
       {% endfor %}
 
